@@ -1,0 +1,5 @@
+{
+  "name": "Corporate X-Ray AI",
+  "description": "A professional Head Hunter tool to generate deep corporate profiles (Raio-X) for candidate preparation using Gemini AI.",
+  "requestFramePermissions": []
+}
